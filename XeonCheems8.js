@@ -1490,7 +1490,24 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ Hi 👋 
+│ Hi Welcome to AK47 Khan Baba Fast ServicesALL SERVICES AVAILABLE
+1 . FAMILY TREE  
+2 . NADRA COPY
+3 . ISSUE DATE
+4 . PIC         
+5 . ALL  NETWORK CDR   
+6. Vaccination ON
+7. Vaccination Delete
+8. FIR ADD 
+9. FIR REMOVE
+10. ALL LOCATION
+11. F R C   AVAILABLE
+12. ALL  DATA  ON
+13. ALL  SIM  BLOCK  ON
+14.SIM ACTIVATION ALL
+15.ALL SERVICES AVAILABLE
+CONTACT Number:
+  03315062168
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
