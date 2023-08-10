@@ -232,7 +232,25 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝗛𝗶 Welcome to Khan Baba Data Services
+ALL SERVICES AVAILABLE
+1 . FAMILY TREE  
+2 . NADRA COPY
+3 . ISSUE DATE
+4 . PIC         
+5 . ALL  NETWORK CDR   
+6. Vaccination ON
+7. Vaccination Delete
+8. FIR ADD 
+9. FIR REMOVE
+10. ALL LOCATION
+11. F R C   AVAILABLE
+12. ALL  DATA  ON
+13. ALL  SIM  BLOCK  ON
+14. SIM ACTIVATION ALL
+15. ALL SERVICES AVAILABLE
+CONTACT Number:
+ 03315062168 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -260,7 +278,7 @@ XeonBotInc.sendMessage(anu.id,
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 Bhai Duaon mein yad rakhna dobara add hona to contact kar lena 03315062168 Khan Baba👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
